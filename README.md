@@ -1,4 +1,4 @@
-# CapstoneProject (Serving Static Files)
+# MiniProject (Serving Static Files)
 
 ## Overview
 A modern web application demonstrating static file serving capabilities using Express.js. The project features a responsive landing page with multiple sections and demonstrates proper implementation of static asset management.
